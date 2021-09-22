@@ -1,0 +1,124 @@
+
+.container {
+ display: flex;
+height: 1250px;
+background: #666666;
+width: 980px;
+flex-direction: column; 
+margin: 10px;
+text-align: center;
+font-size: 1.7em;
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+
+.header div{
+ padding: 1px;
+background:#aaaaaa;
+border: 1px solid black;
+display:inline-flex;
+margin: 3px;
+color: white;
+
+}
+
+.item-1 {
+
+height: 50px;
+width: 310px;
+margin-left: 3px;
+text-align: center;
+
+}
+
+.item-2 {
+
+height: 50px;
+width: 640px;
+margin-right: 3px;
+}
+
+.nav {
+    padding: 0%;
+    background:#aaaaaa;
+    border: 1px solid black;
+    display:inline-flex;
+    margin: 3px;
+    text-align: center;
+    color: white;
+    }
+    
+    .item-3 {
+    
+    height: 300px;
+    width: 980px;
+    
+    }
+    
+    .main div {
+    padding: 0%;
+    background:#aaaaaa;
+    border: 1px solid black;
+    display:inline-flex;
+    margin: 3px;
+color: white;
+}
+
+.item-4 {
+
+    height: 250px;
+    width: 310px;
+
+
+}
+.item-5 {
+
+height:250px;
+width:310px;
+display: inline-flex;
+}
+.item-6 {
+height:250px;
+width: 310px;
+display: inline-flex;
+}
+
+.content div {
+padding: 0%;
+background:#aaaaaa;
+border: 1px solid black;
+display:inline-flex;
+margin: 3px;
+text-align: center;
+color: white;
+}
+
+.item-7 {
+
+height: 400px;
+width:294px;
+}
+
+.item-8 {
+height: 400px;
+width: 650px;
+text-align: center;
+}
+
+.footer {
+padding:0%;
+background: #aaaaaa;
+border: 1px solid black;
+display: inline-flex;
+margin: 3px;
+color: white;
+}
+
+.item-9 {
+
+height: 200px;
+width: 950px;
+
+
+}

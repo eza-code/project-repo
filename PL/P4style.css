@@ -1,0 +1,145 @@
+.wrapper {
+
+    width: 980px;
+    background: #666666;
+    margin: 3px;
+    position: relative;
+    text-align: center;
+    justify-content: center;
+    font-size: 1.7em;
+    font-family:Cambria;
+    
+    
+    }
+
+    .blog  {
+        background: #aaaaaa;
+        border: 1px solid black;
+        display: flex;
+        margin:3px;
+      color: white;
+      line-height: 60px;
+
+    }
+    .blogmenu {
+
+height: 60px;
+width: 960px;
+color: white;
+
+    }
+    
+    .headere div{
+    background: #aaaaaa;
+    border: 1px solid black;
+    display: flex;
+    margin:3px;
+    margin-left: 24px;
+    
+    
+    }
+    
+    
+    .item-1 {
+    
+    height: 100px ;
+    width: 200px;
+    background: #aaaaaa;
+    border: 1px solid black;
+    margin-left: 20px;
+    padding: 20px;
+    color: white;
+    line-height: 100px;
+    }
+    
+    
+    
+    .item-2 {
+    height: 40px;
+    width: 200px ;
+    margin-left: 72%;
+    text-align: center;
+    color: white;
+    padding: 20px;
+    background: #aaaaaa;
+    border: 1px solid black;
+    line-height: 40px;
+    }
+    
+   
+        
+    .item-3 {
+    
+    height: 40px;
+    width: 300px;
+    text-align: center;
+    padding: 10px;
+    background: #aaaaaa;
+    border:1px solid black;
+    margin: 3px;
+    margin-left: 63%;
+    color: white;
+    line-height: 40px;
+    }
+
+    .container div {
+
+background: #aaaaaa;
+border:1px solid black;
+ margin: 3px;
+color: white;
+padding: 30px; 
+margin-left: 15px;
+justify-content: center;
+}
+
+.item-4 {
+
+height: 200px ;
+width: 500px;
+line-height: 200px;
+margin-left: 19px;
+}
+
+.item-5 {
+height: 400px;
+width: 500px;
+display: inline-flex;
+padding: 20px;
+line-height: 400px;
+}
+
+.item-6 {
+height: 600px;
+width: 300px;
+display: inline-flex;
+text-align: center;
+color: white;
+background: #aaaaaa;
+border: 1px solid black;
+line-height: 600px;
+
+}
+
+.footer div {
+ 
+    background: #aaaaaa;
+    border:1px solid black;
+     margin: 3px;
+    text-align: center;
+    justify-content: center;
+    color: white;
+    padding: 10px; 
+    margin-left: 25px;
+line-height: 150px;
+}
+
+.item-7 {
+
+height: 150px;
+width: 908px;
+margin-left: 20px;
+
+}
+
+

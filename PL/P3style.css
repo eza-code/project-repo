@@ -1,0 +1,152 @@
+.container {
+
+    width: 980px;
+    background: #666666;
+    margin: 3px;
+    position: relative;
+    text-align: center;
+    justify-content: center;
+    font-size: 1.7em;
+    font-family:Cambria;
+    
+    
+    }
+    
+    .header div{
+    background: #aaaaaa;
+    border: 1px solid black;
+    margin:30px;
+    
+ }
+    
+    
+    .item-1 {
+    
+    height: 75px ;
+    width: 100px;
+    background: #aaaaaa;
+    border: 1px solid black;
+    padding: 10px;
+    color: white;
+    line-height: 75px;
+    margin-left: 20px;
+   
+    }
+    
+    .phone div {
+
+  background: #aaaaaa;
+  border:1px solid black;
+  margin-left: 800px;
+
+    }
+
+
+    .item-2 {
+    
+    background: #aaaaaa;
+    border:1px solid black;
+    width: 75px;
+    height: 25px;
+    text-align: center;
+    color: white;
+    padding: 10px;
+    line-height: 25px;
+    display: inline-flex;
+    }
+    
+  
+    
+    .menu {
+        background: #aaaaaa;
+        border:1px solid black;
+        width: 150px;
+        height: 25px;
+        margin: 3px;
+        margin-left: 78%;
+        text-align: center;
+        justify-content: center;
+        color:white;
+        padding: 10px; 
+       line-height: 25px;
+    
+    }
+        
+    .item-3 {
+    
+    height: 25px;
+    width: 150px;
+    text-align: center;
+    justify-content: center;
+    padding: 10px;
+    
+    }
+
+ .navbar div {
+
+background: #aaaaaa;
+border:1px solid black;
+ margin: 3px;
+text-align: center;
+ justify-content: center;
+color: white;
+padding: 10px; 
+margin-left: 30px;
+line-height: 130px;
+    
+}
+
+.item-4 {
+
+height: 130px ;
+width: 900px;
+
+}
+
+.content div {
+
+    background: #aaaaaa;
+    border:1px solid black;
+     margin: 3px;
+    justify-content: center;
+    color: white;
+    padding: 10px; 
+    line-height: 400px ;
+}
+.item-5 {
+
+height: 400px ;
+width: 570px; 
+display: inline-flex;
+margin-right: 10px;
+}
+
+.item-6 {
+
+height: 400px;
+width: 292px;
+display: inline-flex;
+margin-right: 10px;
+
+}
+
+.footer div {
+ 
+    background: #aaaaaa;
+    border:1px solid black;
+     margin: 3px;
+    color: white;
+    padding: 10px; 
+    margin-left: 25px;
+    text-align: centre;
+}
+
+.item-7 {
+
+height: 150px;
+width: 908px;
+margin-left: 20px;
+line-height: 150px;
+}
+
+

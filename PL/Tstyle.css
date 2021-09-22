@@ -1,0 +1,110 @@
+.container {
+
+    display: flex;
+    height: 765px;
+    background:gray;
+    width: 820px;
+    flex-direction: column;
+    margin:15px;
+    }
+    
+    .header div{
+    padding: 1px;
+    background:lightgray;
+    border: 1px solid black;
+    display:inline-flex;
+    margin: 9px;
+    }  
+    
+    
+    .item-1 {
+    width: 200px;
+    height:80px ;
+    }
+    
+    .item-2{
+    width: 570px;
+    height: 80px;
+    }
+    
+    
+    .nav{
+    background: lightgrey;
+    border:1px solid black;
+    padding: 1px;
+    display: inline-flex;
+    margin: 9px;
+    }
+    
+    .item-3 {
+    
+    height:170px;
+    width:715px;
+    
+} 
+    
+    .main div {
+    
+        background: lightgrey;
+        border:1px solid black;
+        padding: 1px;
+       display: inline-flex;
+       margin:8px;
+    
+    }
+    
+    .item-4 {
+    height: 120px;
+    width: 250px;
+    
+    }
+    
+    .item-5 {
+    height: 120px;
+    width: 250px;
+    }
+    
+    .item-6 {
+    
+    height: 120px;
+    width: 250px;
+    }
+    
+    .content div {
+    
+        background: lightgrey;
+        border:1px solid black;
+        padding: 1px;
+       display: inline-flex;
+       margin:8px;
+    
+    }
+    
+    .item-7 {
+    height: 180px;
+    width: 200px;
+    
+    }
+    
+    .item-8 {
+    height: 180px;
+    width: 572px;
+    
+    
+    }
+    
+    .footer {
+    
+        background: lightgrey;
+        border:1px solid black;
+        padding: 1px;
+        display: inline-flex;
+        margin: 9px;
+    
+    }
+    
+    .item-9 {
+    height: 110px ;
+    width: 720px ;
+    
+    }
